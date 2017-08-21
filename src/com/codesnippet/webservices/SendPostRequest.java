@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.codesnippet;
+package com.codesnippet.webservices;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
